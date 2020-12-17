@@ -1,0 +1,6 @@
+salt-ssh:
+  config_dir: etc/salt
+  ssh_max_procs: 30
+  ssh_wipe: True
+salt-call:
+  config_dir: etc/salt

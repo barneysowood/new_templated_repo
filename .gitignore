@@ -1,0 +1,7 @@
+# ignore salt-ssh working files
+var/*
+etc/salt/pki/*
+etc/salt/minion_id
+salt-ssh.log
+virtualenv/
+.vscode/

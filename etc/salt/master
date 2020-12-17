@@ -1,0 +1,12 @@
+root_dir: .
+
+fileserver_backend:
+  - roots
+
+file_roots:
+  base:
+    - files
+
+pillar_roots:
+  base:
+    - pillar

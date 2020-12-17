@@ -1,0 +1,6 @@
+salt==3001.3
+salt-lint
+yamllint
+salt-pepper
+pytest
+pre-commit
